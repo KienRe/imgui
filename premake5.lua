@@ -22,7 +22,7 @@ project "IMGUI"
     } 
 
 	filter "system:windows"
-		systemversion "10.0.17134.0"
+		systemversion "10.0.18362.0"
 		
 	filter "configurations:Debug"
 		runtime "Debug"
